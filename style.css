@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #F0B429;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Franklin Gothic Heavy', Angsana New Bold;
 	font-size: 14px;
 	color: #7F7F81;
 }
@@ -95,7 +95,7 @@ img.aligncenter {
 	letter-spacing: -1px;
 	text-transform: lowercase;
 	text-shadow: #728927 -1px 1px 2px;
-	font-family: Georgia, "Times New Roman", Times, serif;
+	font-family: 'Franklin Gothic Heavy', Angsana New Bold;
 	font-size: 64px;
 }
 
@@ -103,7 +103,7 @@ img.aligncenter {
 	margin: 0;
 	padding: 30px 0 0 34px;
 	text-shadow: #728927 -1px 1px 2px;
-	font: normal 18px Georgia, "Times New Roman", Times, serif;
+	font: normal 18px 'Franklin Gothic Heavy', Angsana New Bold;
 	font-style: italic;
 }
 
@@ -159,7 +159,7 @@ img.aligncenter {
 	text-decoration: none;
 	text-transform: uppercase;
 	text-shadow: #7E0044 -1px 1px 2px;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Franklin Gothic Heavy', Angsana New Bold;
 	font-size: 14px;
 	font-weight: normal;
 	color: #FFFFFF;
@@ -227,7 +227,7 @@ img.aligncenter {
 .post .meta {
 	padding-bottom: 5px;
 	text-align: left;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Franklin Gothic Heavy', Angsana New Bold;
 	font-size: 11px;
 	font-style: italic;
 }
@@ -340,7 +340,7 @@ img.aligncenter {
 	width: 1000px;
 	height: 55px;
 	margin: 0px auto 40px auto;	
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Franklin Gothic Heavy', Angsana New Bold;
 }
 
 #footer p {
@@ -354,5 +354,5 @@ img.aligncenter {
 }
 
 #footer a {
-	color:black;
+	color:#B3B3B3;
 }
